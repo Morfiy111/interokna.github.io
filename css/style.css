@@ -9,6 +9,13 @@ a:focus {
     text-decoration: none;
 }
 a:hover {
-    color: #ff6d0a;
+    color: #0070b8;
     text-decoration: none;
+}
+.main-header-page {
+    padding: 20px 0;
+    border-bottom: 4px solid #0070b8;
+}
+.header-logo-block img {
+    width: 222px;
 }
