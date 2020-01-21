@@ -113,7 +113,6 @@ a:hover {
     padding: 10px;
     border: 1px solid #0074b8;
     border-radius: 4px;
-    overflow: hidden;
 }
 .catalog-good-title {
     text-align: center;
@@ -127,13 +126,26 @@ a:hover {
     color: #c42428;
 }
 .catalog-good-img:hover {
-    transform: scale(1.1);
+    transform: scale(1.01);
 }
 .catalog-good-img {
     transition: all .3s linear;
+    overflow: hidden;
 }
 .catalog-good-img img {
     width: 100%;
+}
+.catalog-good-btn button {
+    width: 100%;
+    color: #fff;
+    background-color: #0074b8;
+    border: 2px solid #0074b8;
+    padding: 10px;
+    border-radius: 4px;
+}
+.catalog-good-btn button:hover {
+    background-color: #fff;
+    color: #0074b8;
 }
 @media (min-width: 768px) {
     .navbar-nav {
