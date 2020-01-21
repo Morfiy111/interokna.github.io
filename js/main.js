@@ -17,16 +17,6 @@ $('.stop').on('click',function(){
     owl.trigger('autoplay.stop.owl')
 })
 
-$(document).ready(function() {
-    $('#burger').bind('click', function () {
-        $('#burger, #burger-content').toggleClass('show');
-    });
-});
-$('.continue').click(function(){
-    $('#burger-content').toggleClass('show');
-});
-
-
 $(document).ready(function(){
     $(window).scroll(function () {
         if ($(this).scrollTop() > 50) {
