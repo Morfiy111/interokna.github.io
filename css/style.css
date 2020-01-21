@@ -157,6 +157,23 @@ a:hover {
         flex-wrap: wrap;
     }
 }
+@media(max-width: 1199px) {
+    .header-map-address {
+        width: 190px;
+    }
+}
+@media (max-width: 991px) {
+    .header-flex-block {
+        flex-wrap: wrap;
+    }
+    .header-contact-block {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .header-contact-block a {
+        text-align: center;
+    }
+}
 @media(max-width: 767px) {
     .navbar-toggle, .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
         background-color: #0074b8;
@@ -167,9 +184,19 @@ a:hover {
     .catalog-good-item {
         width: 48%;
     }
+    .header-logo-block {
+        text-align: center;
+    }
+    .header-logo-block img {
+        width: 50%;
+        margin-bottom: 20px;
+    }
 }
 @media(max-width: 450px) {
     .catalog-good-item {
+        width: 100%;
+    }
+    .header-logo-block img {
         width: 100%;
     }
 }
