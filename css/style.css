@@ -104,6 +104,37 @@ a:hover {
     margin-bottom: 40px;
     margin-top: -10px;
 }
+.catalog-goods-block {
+    display: flex;
+    justify-content: space-between;
+}
+.catalog-good-item {
+    width: 32%;
+    padding: 10px;
+    border: 1px solid #0074b8;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.catalog-good-title {
+    text-align: center;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.catalog-good-title a {
+    color: #0074b8;
+}
+.catalog-good-title a:hover {
+    color: #c42428;
+}
+.catalog-good-img:hover {
+    transform: scale(1.1);
+}
+.catalog-good-img {
+    transition: all .3s linear;
+}
+.catalog-good-img img {
+    width: 100%;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
