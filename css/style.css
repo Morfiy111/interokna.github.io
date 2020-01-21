@@ -96,6 +96,14 @@ a:hover {
 .main-title {
     text-align: center;
 }
+.background-image-block {
+    background-image: url("../images/mll.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    padding: 20px;
+    margin-bottom: 40px;
+    margin-top: -10px;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
