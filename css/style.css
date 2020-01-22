@@ -176,6 +176,7 @@ a:hover {
     transition: all 0.7s ease 0s;
     font-size: 22px;
     margin: 10px 0;
+    padding-bottom: 16px;
 }
 .iconblock-7:hover .icon i {
     font-size: 48px;
