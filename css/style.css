@@ -204,6 +204,7 @@ a:hover {
     display: flex;
     justify-content: space-between;
     margin-bottom: 40px;
+    flex-wrap: wrap;
 }
 .contact-col-block {
     width: 33%;
@@ -238,6 +239,34 @@ button.close {
     color: #0074b8;
     background-color: #fff;
 }
+.footer-page {
+    background-color: #0074b8;
+    padding: 40px 0;
+    margin-top: 50px;
+}
+.footer-flex-block {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+.footer-flex-block a {
+    color: #fff;
+    display: block;
+    margin-bottom: 10px;
+}
+.footer-address-item i {
+    margin-right: 5px;
+}
+.footer-logo img {
+    width: 222px;
+}
+.footer-copyright {
+    color: #fff;
+    text-align: center;
+}
+.footer-copyright a {
+    color: #fff;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
@@ -262,6 +291,14 @@ button.close {
     .header-contact-block a {
         text-align: center;
     }
+    .footer-flex-block {
+        flex-wrap: wrap;
+    }
+    .footer-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
 }
 @media(max-width: 767px) {
     .navbar-toggle, .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -279,6 +316,12 @@ button.close {
     .header-logo-block img {
         width: 50%;
         margin-bottom: 20px;
+    }
+    .contact-tel-block {
+        flex-direction: column;
+    }
+    .contact-col-block {
+        width: 100%;
     }
 }
 @media(max-width: 450px) {
