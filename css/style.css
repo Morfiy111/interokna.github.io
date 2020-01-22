@@ -267,6 +267,9 @@ button.close {
 .footer-copyright a {
     color: #fff;
 }
+.footer-copyright a:hover, .footer-flex-block a:hover {
+    text-decoration: underline;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
