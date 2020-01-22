@@ -5,12 +5,13 @@ body {
 }
 a, button {
     transition: all .2s linear;
+    color: #0074b8;
 }
 a:focus {
     text-decoration: none;
 }
 a:hover {
-    color: #0070b8;
+    color: #c42428;
     text-decoration: none;
 }
 .main-header-page {
@@ -95,6 +96,7 @@ a:hover {
 }
 .main-title {
     text-align: center;
+    margin-bottom: 30px;
 }
 .background-image-block {
     background-image: url("../images/mll.jpg");
@@ -148,6 +150,63 @@ a:hover {
 .catalog-good-btn button:hover {
     background-color: #fff;
     color: #0074b8;
+}
+.iconblock-7 {
+    margin: 20px 0;
+    border: 1px solid #e9e9e9;
+    width: 100%;
+    padding: 12px;
+    display: table;
+}
+.iconblock-7 .icon {
+    display: table-cell;
+    vertical-align: top;
+    width: 60px;
+    padding: 12px 12px 0 0;
+    text-align: center;
+}
+.iconblock-7 .icon i {
+    font-size: 32px;
+    color: #FF7472;
+    transition: all .4s;
+    width: 32px;
+    height: 32px;
+}
+.iconblock-7 h3 {
+    transition: all 0.7s ease 0s;
+    font-size: 22px;
+    margin: 10px 0;
+}
+.iconblock-7:hover .icon i {
+    font-size: 48px;
+    color: #c42428;
+    transform: rotate(-360deg);
+    width: 48px;
+    height: 48px;
+    opacity: 1;
+}
+.button-center a {
+    padding: 10px 20px;
+    border: 2px solid #0074b8;
+    background-color: #0074b8;
+    color: #fff;
+    border-radius: 4px;
+}
+.button-center {
+    text-align: center;
+}
+.production-block {
+    margin-bottom: 40px;
+}
+.contact-tel-block {
+    display: flex;
+    justify-content: space-between;
+}
+.contact-col-block {
+    width: 33%;
+}
+.contact-col-block a {
+    font-weight: bold;
 }
 @media (min-width: 768px) {
     .navbar-nav {
