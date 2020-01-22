@@ -270,6 +270,20 @@ button.close {
 .footer-copyright a:hover, .footer-flex-block a:hover {
     text-decoration: underline;
 }
+.main-contact-foto {
+    text-align: center;
+}
+.main-contact-foto a {
+    font-weight: bold;
+    display: inline-block;
+    margin: 30px 0;
+}
+.contact-bottom-dashed {
+    border-bottom: 1px dotted #0074b8;
+}
+.main-contact-foto img {
+    width: 60%;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
@@ -324,6 +338,9 @@ button.close {
         flex-direction: column;
     }
     .contact-col-block {
+        width: 100%;
+    }
+    .main-contact-foto img {
         width: 100%;
     }
 }
