@@ -276,7 +276,7 @@ button.close {
 .main-contact-foto a {
     font-weight: bold;
     display: inline-block;
-    margin: 30px 0;
+    margin-bottom: 30px;
 }
 .contact-bottom-dashed {
     border-bottom: 1px dotted #0074b8;

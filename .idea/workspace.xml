@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0353e05f-4725-4fb2-b448-86f73ef58a7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interokna.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="358">
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="353" column="1" selection-start-line="353" selection-start-column="1" selection-end-line="353" selection-end-column="1" />
+            <state relative-caret-position="191">
+              <caret line="278" column="24" selection-start-line="278" selection-start-column="24" selection-end-line="278" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -58,8 +58,8 @@
       <list>
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/interokna.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -132,12 +132,12 @@
       <workItem from="1579686573317" duration="5632000" />
       <workItem from="1579693445525" duration="587000" />
       <workItem from="1579695450182" duration="1204000" />
-      <workItem from="1579699013324" duration="9000" />
+      <workItem from="1579699013324" duration="639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24612000" />
+    <option name="totallyTimeSpent" value="25242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="246" y="16" width="1371" height="901" extended-state="0" />
@@ -182,17 +182,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="353" column="1" selection-start-line="353" selection-start-column="1" selection-end-line="353" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interokna.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="336" column="277" selection-start-line="336" selection-start-column="277" selection-end-line="336" selection-end-column="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="278" column="24" selection-start-line="278" selection-start-column="24" selection-end-line="278" selection-end-column="24" />
         </state>
       </provider>
     </entry>
