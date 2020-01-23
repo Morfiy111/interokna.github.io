@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0353e05f-4725-4fb2-b448-86f73ef58a7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/interokna.html" beforeDir="false" afterPath="$PROJECT_DIR$/interokna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner3.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
+            <state relative-caret-position="4665">
               <caret line="311" column="1" selection-start-line="311" selection-start-column="1" selection-end-line="311" selection-end-column="1" />
             </state>
           </provider>
@@ -42,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="255">
               <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
             </state>
           </provider>
@@ -75,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,6 +99,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,18 +136,18 @@
       <workItem from="1579693445525" duration="587000" />
       <workItem from="1579695450182" duration="1204000" />
       <workItem from="1579699013324" duration="1260000" />
-      <workItem from="1579758239617" duration="2463000" />
+      <workItem from="1579758239617" duration="2855000" />
+      <workItem from="1579767028798" duration="364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28326000" />
+    <option name="totallyTimeSpent" value="29082000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="222" y="291" width="1371" height="901" extended-state="0" />
-    <editor active="true" />
+    <frame x="207" y="92" width="1371" height="901" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2733485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27790433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -178,14 +181,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
+        <state relative-caret-position="4665">
           <caret line="311" column="1" selection-start-line="311" selection-start-column="1" selection-end-line="311" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="255">
           <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
         </state>
       </provider>
