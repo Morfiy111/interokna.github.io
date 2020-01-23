@@ -330,6 +330,23 @@ button.close {
 .header-double-text p {
     font-size: 15px;
 }
+.iconblock-7 a {
+    padding: 10px 20px;
+    border: 2px solid #0074b8;
+    background-color: #0074b8;
+    color: #fff;
+    border-radius: 4px;
+}
+.iconblock-7 a:hover {
+    color: #0074b8;
+    background-color: #fff;
+}
+.iconblock-title-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
@@ -402,6 +419,9 @@ button.close {
     }
     .header-map-time {
         text-align: center;
+    }
+    .iconblock-7 a {
+        margin-bottom: 20px;
     }
 }
 @media(max-width: 450px) {
