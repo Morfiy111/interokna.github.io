@@ -326,6 +326,9 @@ button.close {
     font-weight: bold;
     font-size: 30px;
 }
+.header-double-text p {
+    font-size: 15px;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
