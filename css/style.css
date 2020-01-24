@@ -484,6 +484,13 @@ button.close {
 .modal-description {
     font-size: 14px;
 }
+.montage-image {
+    float: right;
+    margin: 0 0 20px 20px;
+}
+.montage-image img {
+    width: 600px;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
@@ -519,6 +526,9 @@ button.close {
     }
     .catalog-item {
         width: 32%;
+    }
+    .montage-image img {
+        width: 350px;
     }
 }
 @media(max-width: 767px) {
@@ -589,6 +599,9 @@ button.close {
     .catalog-item {
         width: 48%;
     }
+    .montage-image img {
+        width: 100%;
+    }
 }
 @media(max-width: 450px) {
     .catalog-good-item {
@@ -603,5 +616,8 @@ button.close {
     }
     .catalog-item {
         width: 100%;
+    }
+    .button-montage a {
+        font-size: 13px;
     }
 }
