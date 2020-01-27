@@ -491,6 +491,40 @@ button.close {
 .montage-image img {
     width: 600px;
 }
+.call-manager-block {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.call-manager-info, .tab-content {
+    width: 50%;
+}
+.call-manager-title {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+.call-manager-input input {
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 10px 10px;
+    border: 1px solid rgba(122, 122, 122, 0.25);
+    border-radius: 2px;
+}
+.tab-pane img {
+    width: 100%;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    color: #fff;
+    background-color: #0074b8;
+}
+.nav-tabs > li > a {
+    border: none;
+}
+.nav-tabs {
+    border-bottom: none;
+    margin-bottom: 30px;
+}
 @media (min-width: 768px) {
     .navbar-nav {
         display: flex;
@@ -619,5 +653,11 @@ button.close {
     }
     .button-montage a {
         font-size: 13px;
+    }
+    .call-manager-info, .tab-content {
+        width: 100%;
+    }
+    .call-manager-block {
+        flex-wrap: wrap;
     }
 }
